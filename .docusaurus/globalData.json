@@ -1,0 +1,88 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "account",
+              "path": "/docs/account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b2handle-tutorial/authenticate-with-the-library",
+              "path": "/docs/b2handle-tutorial/authenticate-with-the-library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b2handle-tutorial/congratulations",
+              "path": "/docs/b2handle-tutorial/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b2handle-tutorial/install",
+              "path": "/docs/b2handle-tutorial/install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b2handle-tutorial/searching",
+              "path": "/docs/b2handle-tutorial/searching",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "b2handle-tutorial/using-the-library",
+              "path": "/docs/b2handle-tutorial/using-the-library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pyhandle-tutorial/authenticate-with-the-library",
+              "path": "/docs/pyhandle-tutorial/authenticate-with-the-library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pyhandle-tutorial/install-pyhandle",
+              "path": "/docs/pyhandle-tutorial/install-pyhandle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pyhandle-tutorial/using-the-library",
+              "path": "/docs/pyhandle-tutorial/using-the-library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/b2handle---tutorial",
+              "path": "/docs/category/b2handle---tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/pyhandle---tutorial",
+              "path": "/docs/category/pyhandle---tutorial",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

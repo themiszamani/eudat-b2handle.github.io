@@ -1,0 +1,27 @@
+{
+  "unversionedId": "b2handle-tutorial/congratulations",
+  "id": "b2handle-tutorial/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of B2HANDLE",
+  "source": "@site/docs/b2handle-tutorial/congratulations.md",
+  "sourceDirName": "b2handle-tutorial",
+  "slug": "/b2handle-tutorial/congratulations",
+  "permalink": "/docs/b2handle-tutorial/congratulations",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/b2handle-tutorial/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Searching",
+    "permalink": "/docs/b2handle-tutorial/searching"
+  },
+  "next": {
+    "title": "PYHANDLE - Tutorial",
+    "permalink": "/docs/category/pyhandle---tutorial"
+  }
+}

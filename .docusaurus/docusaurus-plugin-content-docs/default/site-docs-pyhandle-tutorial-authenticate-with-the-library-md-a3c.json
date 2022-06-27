@@ -1,0 +1,27 @@
+{
+  "unversionedId": "pyhandle-tutorial/authenticate-with-the-library",
+  "id": "pyhandle-tutorial/authenticate-with-the-library",
+  "title": "Authentication",
+  "description": "For creating and modifying handles* you need to authenticate at the Handle Server you’d like to write to. Authentication using pyhandle is straightforward. There are two possibilities:",
+  "source": "@site/docs/pyhandle-tutorial/authenticate-with-the-library.md",
+  "sourceDirName": "pyhandle-tutorial",
+  "slug": "/pyhandle-tutorial/authenticate-with-the-library",
+  "permalink": "/docs/pyhandle-tutorial/authenticate-with-the-library",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pyhandle-tutorial/authenticate-with-the-library.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/docs/pyhandle-tutorial/install-pyhandle"
+  },
+  "next": {
+    "title": "Start using the library",
+    "permalink": "/docs/pyhandle-tutorial/using-the-library"
+  }
+}

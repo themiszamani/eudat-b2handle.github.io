@@ -1,0 +1,27 @@
+{
+  "unversionedId": "b2handle-tutorial/install",
+  "id": "b2handle-tutorial/install",
+  "title": "Installation",
+  "description": "Find guidelines on how to install B2HANDLE",
+  "source": "@site/docs/b2handle-tutorial/install.md",
+  "sourceDirName": "b2handle-tutorial",
+  "slug": "/b2handle-tutorial/install",
+  "permalink": "/docs/b2handle-tutorial/install",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/b2handle-tutorial/install.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "B2HANDLE - Tutorial",
+    "permalink": "/docs/category/b2handle---tutorial"
+  },
+  "next": {
+    "title": "Authentication",
+    "permalink": "/docs/b2handle-tutorial/authenticate-with-the-library"
+  }
+}

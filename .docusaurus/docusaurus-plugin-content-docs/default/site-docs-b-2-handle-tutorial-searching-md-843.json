@@ -1,0 +1,27 @@
+{
+  "unversionedId": "b2handle-tutorial/searching",
+  "id": "b2handle-tutorial/searching",
+  "title": "Searching",
+  "description": "Searching for a Handle. The  search_handle() is responsible to search for Handles with a specific key and value. Please note that searching requires access to a search servlet whose access information, if it differs from the handle server, has to be specified at client instantiation.",
+  "source": "@site/docs/b2handle-tutorial/searching.md",
+  "sourceDirName": "b2handle-tutorial",
+  "slug": "/b2handle-tutorial/searching",
+  "permalink": "/docs/b2handle-tutorial/searching",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/b2handle-tutorial/searching.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Start using the library",
+    "permalink": "/docs/b2handle-tutorial/using-the-library"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/docs/b2handle-tutorial/congratulations"
+  }
+}
