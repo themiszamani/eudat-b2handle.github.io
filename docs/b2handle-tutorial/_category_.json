@@ -1,0 +1,8 @@
+{
+  "label": "B2HANDLE - Tutorial",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "The b2handle Python library is a client library for interaction with a Handle System server, using the native REST interface introduced in Handle System 8. The library offers methods to create, update and delete Handles as well as advanced functionality such as searching over Handles using an additional search servlet and managing multiple location entries per Handle."
+  }
+}

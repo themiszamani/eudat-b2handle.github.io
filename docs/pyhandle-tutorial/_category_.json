@@ -1,0 +1,8 @@
+{
+  "label": "PYHANDLE - Tutorial",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "PyHandle is a Python client library for interaction with a Handle System server, providing basic create, read, update and delete capabilities for Handles. The library offers a client for the HTTP REST interface. It also includes a client that interacts directly with a Handle server SQL back-end."
+  }
+}
