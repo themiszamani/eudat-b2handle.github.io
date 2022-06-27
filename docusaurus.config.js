@@ -96,7 +96,7 @@ const config = {
               },
                 {
                 label: 'Profile ',
-                to: 'https://sp.eudat.eu/catalog/resources/5d81cb5b-3640-4430-b46e-fc652e06a4db',
+                to: 'https://sp.eudat.eu/catalog/resources/fc6b2d30-09cd-4c25-b71a-7bc6de77910c',
               },
             ],
           },
